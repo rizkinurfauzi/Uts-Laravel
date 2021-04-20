@@ -1,5 +1,5 @@
 ### [Aplikasi Perekaman Toko Buku](https://uts-laravel-crud.herokuapp.com/) klik
-### [Diagram dan penjelasan]() klik
+### [Diagram dan penjelasan](https://drive.google.com/file/d/1Ye6HJSSSc3DpKqKGbXSTmpqAxI7spWIx/view?usp=sharing) klik
 #### By
 - Nama  : Rizki Nur Fauzi
 - NIM   : 18090054
